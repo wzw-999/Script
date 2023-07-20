@@ -6,7 +6,7 @@
 QuantumultX:
 
 [rewrite_local]
-^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/wnyd.js
+^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/wzw-999/Script/master/QuantumultX/File/wnyd.js
 
 [mitm]
 hostname = p.du.163.com
